@@ -85,3 +85,4 @@ Antes de atravessar, olhe para os dois lados! Esse é o Bold Road, um jogo desen
 
 ## Licença
 
+Este projeto está licenciado sob a [MIT License](LICENSE.md). 📜
