@@ -1,6 +1,6 @@
 <h1 align="center">  🚗 Bold Road 🎮 </h1>
 
-<img src="/BOLD-ROAD/Capa_BOLD-ROAD.jpeg">
+<img src="/bold-road/Capa_BOLD-ROAD.jpeg">
 
 ![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
 
@@ -28,7 +28,7 @@ Antes de atravessar, olhe para os dois lados! Esse é o Bold Road, um jogo desen
 
 ## 🏁 *Como jogar*
 ### Passo 1:
-- Clonar esse repositório : git clone https://github.com/bielabs/bold-road-rep.git
+- Clonar esse repositório : git clone https://github.com/bielabs/bold-road.git
 ### Passo 2:
 - Navegar até o diretório do jogo (o caminho pode precisar de ajuste): cd bold-road
 ### Passo 3:
@@ -42,7 +42,7 @@ Antes de atravessar, olhe para os dois lados! Esse é o Bold Road, um jogo desen
 <ul>
   <li>
     <a href="https://github.com/biagalindoo">Beatriz Galindo</a> -
-    trl@cesar.school 📩
+    @cesar.school 📩
   </li>
   <li>
     <a href="https://github.com/bielabs">Gabriel Araujo</a> -
