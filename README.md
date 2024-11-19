@@ -42,7 +42,7 @@ Antes de atravessar, olhe para os dois lados! Esse é o Bold Road, um jogo desen
 <ul>
   <li>
     <a href="https://github.com/biagalindoo">Beatriz Galindo</a> -
-    @cesar.school 📩
+    bpmg@cesar.school 📩
   </li>
   <li>
     <a href="https://github.com/bielabs">Gabriel Araujo</a> -
