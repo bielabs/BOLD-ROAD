@@ -1,6 +1,6 @@
 <h1 align="center">  🚗 Bold Road 🎮 </h1>
 
-<img src="bold-road/Capa_BOLD-ROAD.jpeg">
+<img src="BOLD-ROAD/Capa_BOLD-ROAD.jpeg">
 
 ![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
 
